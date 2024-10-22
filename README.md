@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Stock Prediction
 
 This project demonstrates a stock price prediction model using historical stock data. It applies time series analysis, such as calculating moving averages and implementing the ARIMA model, to predict stock prices. The data is fetched from APIs like Yahoo Finance and Alpha Vantage to analyze Tesla (TSLA) and Apple (AAPL) stock prices.
 
